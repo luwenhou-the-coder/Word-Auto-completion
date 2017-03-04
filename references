@@ -1,0 +1,12 @@
+#Enter all the references below (stackoverflow, or any other links) that you used to complete this project
+http://stackoverflow.com/questions/5063977/regex-empty-string-or-email
+http://stackoverflow.com/questions/16082526/finding-null-character-using-regex-in-perl
+http://stackoverflow.com/questions/14171806/reducers-stopped-working-at-66-68-while-running-hive-join-query
+https://cwiki.apache.org/confluence/display/Hive/LanguageManual+DDL#LanguageManualDDL-RowFormat,StorageFormat,andSerDe
+http://stackoverflow.com/questions/14058045/how-does-order-by-clause-works-if-two-values-are-equal
+
+http://hbase.apache.org/0.94/book/mapreduce.example.html
+http://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html#Example:_WordCount_v2.0
+https://hbase.apache.org/apidocs/org/apache/hadoop/hbase/io/ImmutableBytesWritable.html	
+http://stackoverflow.com/questions/8529082/wrong-key-class-text-is-not-intwritable
+#Enter all the andrew IDs of all the people who helped you in completing this project#
